@@ -1,5 +1,10 @@
 📊 HR Analytics Dashboard – Power BI
 
+🔗 Live Dashboard File
+
+View/Download the HR Analytics PBIX:
+https://drive.google.com/file/d/1A2HGNgTqYscV8T_7Gsfc3EktVpG0L4MW/view?usp=sharing
+
 A clean and interactive HR Analytics Dashboard built using Power BI to understand employee attrition, demographics, job roles, salary distribution, and workforce trends.
 
 📸 Dashboard Preview
